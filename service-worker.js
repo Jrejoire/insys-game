@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/insys-game/precache-manifest.d04f96ac2f803668a077da70984310a7.js"
+  "/insys-game/precache-manifest.507ab8b132bab98ff25610a8761960f1.js"
 );
 
 self.addEventListener('message', (event) => {
