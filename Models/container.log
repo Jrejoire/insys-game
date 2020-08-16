@@ -1,0 +1,32 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\Insys\Models\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  container
+		processing begun of material:  Material
+		processing begun of material:  vaneri
+		processing begun of multimaterial:  container.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  11633
+		num normals        :  11633
+		num tangents       :  46532
+		num uvs            :  23266
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4965
+		WARNING: # of 0 area faces found:  33
+========= Writing of JSON file started =========
+	writing mesh:  container
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.7711 secs
