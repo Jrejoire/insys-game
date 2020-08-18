@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "http://jrejoire.github.io/static/css/main.8181e96e.chunk.css",
-    "main.js": "http://jrejoire.github.io/static/js/main.850e53be.chunk.js",
-    "main.js.map": "http://jrejoire.github.io/static/js/main.850e53be.chunk.js.map",
-    "runtime-main.js": "http://jrejoire.github.io/static/js/runtime-main.845d65f8.js",
-    "runtime-main.js.map": "http://jrejoire.github.io/static/js/runtime-main.845d65f8.js.map",
-    "static/js/2.432514a7.chunk.js": "http://jrejoire.github.io/static/js/2.432514a7.chunk.js",
-    "static/js/2.432514a7.chunk.js.map": "http://jrejoire.github.io/static/js/2.432514a7.chunk.js.map",
-    "index.html": "http://jrejoire.github.io/index.html",
-    "precache-manifest.db1e591b107bc30d1f02301839f5007e.js": "http://jrejoire.github.io/precache-manifest.db1e591b107bc30d1f02301839f5007e.js",
-    "service-worker.js": "http://jrejoire.github.io/service-worker.js",
-    "static/css/main.8181e96e.chunk.css.map": "http://jrejoire.github.io/static/css/main.8181e96e.chunk.css.map",
-    "static/js/2.432514a7.chunk.js.LICENSE.txt": "http://jrejoire.github.io/static/js/2.432514a7.chunk.js.LICENSE.txt"
+    "main.css": "https://jrejoire.github.io/insys-game/static/css/main.8181e96e.chunk.css",
+    "main.js": "https://jrejoire.github.io/insys-game/static/js/main.e4b0b449.chunk.js",
+    "main.js.map": "https://jrejoire.github.io/insys-game/static/js/main.e4b0b449.chunk.js.map",
+    "runtime-main.js": "https://jrejoire.github.io/insys-game/static/js/runtime-main.7146d5f3.js",
+    "runtime-main.js.map": "https://jrejoire.github.io/insys-game/static/js/runtime-main.7146d5f3.js.map",
+    "static/js/2.432514a7.chunk.js": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js",
+    "static/js/2.432514a7.chunk.js.map": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js.map",
+    "index.html": "https://jrejoire.github.io/insys-game/index.html",
+    "precache-manifest.079f3bb6268726a611df212c99654327.js": "https://jrejoire.github.io/insys-game/precache-manifest.079f3bb6268726a611df212c99654327.js",
+    "service-worker.js": "https://jrejoire.github.io/insys-game/service-worker.js",
+    "static/css/main.8181e96e.chunk.css.map": "https://jrejoire.github.io/insys-game/static/css/main.8181e96e.chunk.css.map",
+    "static/js/2.432514a7.chunk.js.LICENSE.txt": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.845d65f8.js",
+    "static/js/runtime-main.7146d5f3.js",
     "static/js/2.432514a7.chunk.js",
     "static/css/main.8181e96e.chunk.css",
-    "static/js/main.850e53be.chunk.js"
+    "static/js/main.e4b0b449.chunk.js"
   ]
 }
