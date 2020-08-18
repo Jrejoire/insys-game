@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://jrejoire.github.io/insys-game/static/css/main.8181e96e.chunk.css",
-    "main.js": "https://jrejoire.github.io/insys-game/static/js/main.e4b0b449.chunk.js",
-    "main.js.map": "https://jrejoire.github.io/insys-game/static/js/main.e4b0b449.chunk.js.map",
-    "runtime-main.js": "https://jrejoire.github.io/insys-game/static/js/runtime-main.7146d5f3.js",
-    "runtime-main.js.map": "https://jrejoire.github.io/insys-game/static/js/runtime-main.7146d5f3.js.map",
-    "static/js/2.432514a7.chunk.js": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js",
-    "static/js/2.432514a7.chunk.js.map": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js.map",
-    "index.html": "https://jrejoire.github.io/insys-game/index.html",
-    "precache-manifest.079f3bb6268726a611df212c99654327.js": "https://jrejoire.github.io/insys-game/precache-manifest.079f3bb6268726a611df212c99654327.js",
-    "service-worker.js": "https://jrejoire.github.io/insys-game/service-worker.js",
-    "static/css/main.8181e96e.chunk.css.map": "https://jrejoire.github.io/insys-game/static/css/main.8181e96e.chunk.css.map",
-    "static/js/2.432514a7.chunk.js.LICENSE.txt": "https://jrejoire.github.io/insys-game/static/js/2.432514a7.chunk.js.LICENSE.txt"
+    "main.css": "/insys-game/static/css/main.8181e96e.chunk.css",
+    "main.js": "/insys-game/static/js/main.510aae1d.chunk.js",
+    "main.js.map": "/insys-game/static/js/main.510aae1d.chunk.js.map",
+    "runtime-main.js": "/insys-game/static/js/runtime-main.b666fe7f.js",
+    "runtime-main.js.map": "/insys-game/static/js/runtime-main.b666fe7f.js.map",
+    "static/js/2.432514a7.chunk.js": "/insys-game/static/js/2.432514a7.chunk.js",
+    "static/js/2.432514a7.chunk.js.map": "/insys-game/static/js/2.432514a7.chunk.js.map",
+    "index.html": "/insys-game/index.html",
+    "precache-manifest.e78fdc75908c262c5b5e1a6d945b916b.js": "/insys-game/precache-manifest.e78fdc75908c262c5b5e1a6d945b916b.js",
+    "service-worker.js": "/insys-game/service-worker.js",
+    "static/css/main.8181e96e.chunk.css.map": "/insys-game/static/css/main.8181e96e.chunk.css.map",
+    "static/js/2.432514a7.chunk.js.LICENSE.txt": "/insys-game/static/js/2.432514a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7146d5f3.js",
+    "static/js/runtime-main.b666fe7f.js",
     "static/js/2.432514a7.chunk.js",
     "static/css/main.8181e96e.chunk.css",
-    "static/js/main.e4b0b449.chunk.js"
+    "static/js/main.510aae1d.chunk.js"
   ]
 }
