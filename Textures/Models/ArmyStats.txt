@@ -1,0 +1,90 @@
+Armies:
+-Anti-Bio Special Forces
+(Technologic, Fast, Efficient)
+Movment: 4 inches
+Melee: Katana 2 dice 4+  75
+Ranged ++: Marksman rifle 1 die 3+ range s:+1 m:-1 l:+1 xl:+2 66.67
+Average: s: 62.50 m: 79.165 l: 62.50
+Average: 68.055
+
+-SYS Troops
+(Organised, marksman, powerful)
+Movment: 4 inches
+Melee: Knive 1 die 3+ 66.67
+Ranged +: Assault rifle 2 dice 4+ range 1-2 range s:0 m:-1 l:+1 xl:+2 75
+Average: s: 70.835 m: 77.78 l: 61.115
+TotalAvg: 69.91
+
+-Anti-SYS Rebels
+(Passionated, sabotage, quiet)
+Movment: 4 inches
+Melee: Hatchet 3 dice 5+ 70.37
+Ranged: Sub MG 3 dice 5+ range 0-1 range s:-1 m:0 l:+1 xl:-2 70.37
+Average: s: 78.935  m: 70.37 l: 56.25
+TotalAvg: 68.51
+
+-Outer-Ring Renegades
+(Tough, violent, loyal)
+Movment: 4 inches
+Melee ++: Kukri cutter 4 die 5+ 80.25
+Ranged: crossbow 1 die 3+ range 0-1 range s:-1 m:0 l:+2 xl:- 66.67
+Average: s: 84.57 m: 73.46 l: 56.79 
+TotalAvg: 70.68
+
+-Void Warriors
+(Cruel, Hard to kill, persistant)
+Movment: 4 inches
+Melee: Chainsaw rifle 3 dice 5+ 70.37
+Ranged: Chainsaw rifle 2 dice 4+ range 1-3 range s:0 m:0 l:+1 xl:+2 75
+Average: s: 72.685 m: 72.685 l: 62.965 
+TotalAvg: 69.445
+
+1 die 2+ 83.33
+1 die 3+ 66.67	
+1 die 4+ 50
+1 die 5+ 33.33
+1 dice 6+ 16.67
+
+2 dice 3+ 88.89
+2 dice 4+ 75
+2 dice 5+ 55.56
+2 dice 6+ 30.56
+
+3 dice 3+ 96.30
+3 dice 4+ 87.50
+3 dice 5+ 70.37
+3 dice 6+ 42.13
+
+4 dice 3+ 98.77
+4 dice 4+ 93.75
+4 dice 5+ 80.25
+4 dice 6+ 51.77
+
+
+In order:
+
+1 dice 6+ 16.67
+2 dice 6+ 30.56
+1 die 5+ 33.33
+3 dice 6+ 42.13
+
+1 die 4+ 50
+4 dice 6+ 51.77
+2 dice 5+ 55.56
+
+1 die 3+ 66.67
+3 dice 5+ 70.37
+2 dice 4+ 75
+
+4 dice 5+ 80.25
+3 dice 4+ 87.50
+2 dice 3+ 88.89
+
+4 dice 4+ 93.75
+3 dice 3+ 96.30
+4 dice 3+ 98.77
+
+short 0-8
+medium 8-16
+long 16-32
+xlong 32-max

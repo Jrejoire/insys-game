@@ -1,0 +1,48 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\insys-game\public\Models\
+	Python World class constructor completed
+	processing begun of mesh:  Medium Creature
+		processing begun of material:  kurki
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeAddShader) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeAddShader) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture Medium_Creature_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: GLOSSY, mapped using: UVMap
+			processing texture Medium_Creature_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "UVMap"
+			bake time:  0 min, 4.1302 secs
+		Custom split normals with tangents being used
+		num positions      :  44049
+		num normals        :  44049
+		num tangents       :  176196
+		num uvs            :  88098
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  43574
+		WARNING: # of 0 area faces found:  1077
+	processing begun of camera (UniversalCamera):  Camera.001
+	processing begun of light (POINT):  Lamp.000
+	processing begun of light (POINT):  Lamp.001
+========= Writing of JSON file started =========
+	writing mesh:  Medium Creature
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.4314 secs

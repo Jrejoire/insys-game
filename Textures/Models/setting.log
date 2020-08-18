@@ -1,0 +1,44 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\Insys\
+			processing texture th
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'C:\\Users\\jrejo\\OneDrive\\Documents\\Coding\\Insys\\Ruins\\..\\th.jpg'
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Frame
+		processing begun of material:  wood.001
+			WARNING: unsupported node type(ShaderNodeVectorCurve) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture Frame_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture Frame_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			Baking texture, type: NORMAL, mapped using: BakingUV
+			processing texture Frame_baked_NORMAL
+				texture type:  bumpTexture, mapped using: "BakingUV"
+			bake time:  0 min, 8.4487 secs
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  62
+	processing begun of light (POINT):  Lamp
+========= Writing of JSON file started =========
+	writing mesh:  Frame
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 8.496 secs
