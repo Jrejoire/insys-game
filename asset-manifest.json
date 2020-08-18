@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8181e96e.chunk.css",
-    "main.js": "/static/js/main.9b8a8023.chunk.js",
-    "main.js.map": "/static/js/main.9b8a8023.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aca05a75.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aca05a75.js.map",
-    "static/js/2.432514a7.chunk.js": "/static/js/2.432514a7.chunk.js",
-    "static/js/2.432514a7.chunk.js.map": "/static/js/2.432514a7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e0f209522c9ee6ed9a09ed44c7ce4f3a.js": "/precache-manifest.e0f209522c9ee6ed9a09ed44c7ce4f3a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8181e96e.chunk.css.map": "/static/css/main.8181e96e.chunk.css.map",
-    "static/js/2.432514a7.chunk.js.LICENSE.txt": "/static/js/2.432514a7.chunk.js.LICENSE.txt"
+    "main.css": "/insys-game/static/css/main.8181e96e.chunk.css",
+    "main.js": "/insys-game/static/js/main.a5f450f3.chunk.js",
+    "main.js.map": "/insys-game/static/js/main.a5f450f3.chunk.js.map",
+    "runtime-main.js": "/insys-game/static/js/runtime-main.b666fe7f.js",
+    "runtime-main.js.map": "/insys-game/static/js/runtime-main.b666fe7f.js.map",
+    "static/js/2.432514a7.chunk.js": "/insys-game/static/js/2.432514a7.chunk.js",
+    "static/js/2.432514a7.chunk.js.map": "/insys-game/static/js/2.432514a7.chunk.js.map",
+    "index.html": "/insys-game/index.html",
+    "precache-manifest.c031adcf66f377b636ab560f01b6769f.js": "/insys-game/precache-manifest.c031adcf66f377b636ab560f01b6769f.js",
+    "service-worker.js": "/insys-game/service-worker.js",
+    "static/css/main.8181e96e.chunk.css.map": "/insys-game/static/css/main.8181e96e.chunk.css.map",
+    "static/js/2.432514a7.chunk.js.LICENSE.txt": "/insys-game/static/js/2.432514a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aca05a75.js",
+    "static/js/runtime-main.b666fe7f.js",
     "static/js/2.432514a7.chunk.js",
     "static/css/main.8181e96e.chunk.css",
-    "static/js/main.9b8a8023.chunk.js"
+    "static/js/main.a5f450f3.chunk.js"
   ]
 }
