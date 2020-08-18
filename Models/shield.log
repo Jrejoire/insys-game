@@ -1,0 +1,42 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\insys-game\public\Models\
+			WARNING: unsupported node type(ShaderNodeVectorMath) will trigger baking
+			processing texture table_mountain_1_4k
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'C:\\Users\\jrejo\\OneDrive\\Documents\\Insys Models\\..\\..\\..\\Hdri Haven\\table_mountain_1_4k.hdr'
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Small Shield.001
+		processing begun of material:  Material.005
+		processing begun of material:  Material.002
+		processing begun of material:  Handle.001
+		processing begun of material:  Leather_Handle.001
+		processing begun of material:  Material.001
+		processing begun of material:  Material.010
+		processing begun of material:  Material.009
+		processing begun of material:  Handle
+		processing begun of material:  Leather_Handle
+		processing begun of material:  Material.007
+		processing begun of multimaterial:  shield.Multimaterial#0
+		num positions      :  16212
+		num normals        :  16212
+		num tangents       :  0
+		num uvs            :  32424
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16084
+========= Writing of JSON file started =========
+	writing mesh:  Small Shield.001
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.3513 secs
