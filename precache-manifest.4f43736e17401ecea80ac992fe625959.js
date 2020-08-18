@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a24651e625105df57162247881ec3e7",
+    "revision": "c9d9631d4ab146e9cf75f0d1a61efef4",
     "url": "/insys-game/index.html"
   },
   {
-    "revision": "702775546f40d2ce29ef",
+    "revision": "12376aeffcdc97e7528d",
     "url": "/insys-game/static/css/main.8181e96e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insys-game/static/js/2.432514a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "702775546f40d2ce29ef",
-    "url": "/insys-game/static/js/main.a5f450f3.chunk.js"
+    "revision": "12376aeffcdc97e7528d",
+    "url": "/insys-game/static/js/main.db351049.chunk.js"
   },
   {
     "revision": "a82635a4398cff9adc7f",
