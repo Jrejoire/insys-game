@@ -1,0 +1,30 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\insys-game\public\Models\
+	Python World class constructor completed
+	processing begun of mesh:  Medium Creature
+		WARNING: No materials have been assigned: 
+		num positions      :  18545
+		num normals        :  18545
+		num tangents       :  0
+		num uvs            :  37090
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13507
+		WARNING: # of 0 area faces found:  311
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of JSON file started =========
+	writing mesh:  Medium Creature
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.5922 secs
