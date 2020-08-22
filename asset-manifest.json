@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/insys-game/static/css/main.8181e96e.chunk.css",
-    "main.js": "/insys-game/static/js/main.e063b041.chunk.js",
-    "main.js.map": "/insys-game/static/js/main.e063b041.chunk.js.map",
+    "main.js": "/insys-game/static/js/main.3c7a35b7.chunk.js",
+    "main.js.map": "/insys-game/static/js/main.3c7a35b7.chunk.js.map",
     "runtime-main.js": "/insys-game/static/js/runtime-main.b666fe7f.js",
     "runtime-main.js.map": "/insys-game/static/js/runtime-main.b666fe7f.js.map",
     "static/js/2.09d97f83.chunk.js": "/insys-game/static/js/2.09d97f83.chunk.js",
     "static/js/2.09d97f83.chunk.js.map": "/insys-game/static/js/2.09d97f83.chunk.js.map",
     "index.html": "/insys-game/index.html",
-    "precache-manifest.90ca5bd007c49311d0ed48e448541756.js": "/insys-game/precache-manifest.90ca5bd007c49311d0ed48e448541756.js",
+    "precache-manifest.d047b7bca2d62c79de024405bc7ce655.js": "/insys-game/precache-manifest.d047b7bca2d62c79de024405bc7ce655.js",
     "service-worker.js": "/insys-game/service-worker.js",
     "static/css/main.8181e96e.chunk.css.map": "/insys-game/static/css/main.8181e96e.chunk.css.map",
     "static/js/2.09d97f83.chunk.js.LICENSE.txt": "/insys-game/static/js/2.09d97f83.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b666fe7f.js",
     "static/js/2.09d97f83.chunk.js",
     "static/css/main.8181e96e.chunk.css",
-    "static/js/main.e063b041.chunk.js"
+    "static/js/main.3c7a35b7.chunk.js"
   ]
 }
