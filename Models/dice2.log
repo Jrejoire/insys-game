@@ -9,8 +9,10 @@ Exporter version: 6.4.3, Blender version: 2.83.3
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\Insys\
+		Texture directory   :  C:\Users\jrejo\OneDrive\Documents\Coding\insys-game\public\Models\
 			processing texture abandoned_hall_01_4k
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'C:\\Users\\jrejo\\OneDrive\\Documents\\Insys Models\\Dice\\Dice\\abandoned_hall_01_4k.hdr'
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of mesh:  Cube.001
@@ -28,4 +30,4 @@ Exporter version: 6.4.3, Blender version: 2.83.3
 	writing mesh:  Cube.001
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.3753 secs
+elapsed time:  0 min, 3.4857 secs
